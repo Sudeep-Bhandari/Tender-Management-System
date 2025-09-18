@@ -104,7 +104,7 @@ commit;
 ### ====== Importing and Running the Project Through Eclipse EE ===========
 Step 0: Open Eclipse Enterprise Edition. [Install if not available]
 
-Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/shashirajraja/Tender-Management-System.git``` > Next > Select Master Branch > Select Tender-Management-System\tendermanagement (Eclipse Project) > Next > Finish
+Step 1: Click On File > Import > Git > Projects From Git > Clone Uri  > Paste The Repository Url: ```https://github.com/Sudeep-Bhandari/Tender-Management-System.git``` > Next > Select Master Branch > Select Tender-Management-System\tendermanagement (Eclipse Project) > Next > Finish
 
 Step 2.a: Go inside ```tendermanagement > Java Resources > dbdetails.properties``` and update the value of username and password according to your installed mysql admin credentials
 
@@ -122,7 +122,7 @@ Step 6: Check Running The Site At  <a Href="http://localhost:8083/tendermanageme
 
 Step 7: Default Username And Password For Admin Is "Admin" and "Admin" respectively. [Case-Sensitive]
 
-Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi" respectively.
+Step 8: Default Username And Password For User Is "sudeep@gmail.com" and "sudeep" respectively.
 
 
 
@@ -130,4 +130,4 @@ Step 8: Default Username And Password For User Is "shashi@gmail.com" and "shashi
 
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Sudeep Bhandari</b>
