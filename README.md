@@ -51,7 +51,7 @@ LIVE NOW &#x1F534
 - 
 ### ========== Dummy Database Initialization USing SQLDUMP =====================
 
-STEPS: If you want to create table structure with dummy database, then follow the Steps given <a target="_blank" href="https://github.com/shashirajraja/Tender-Management-System/blob/master/DataBase/how-to-import-sql-dump-file.md">Here Inside DataBase/how-to-import-sql-dump-file</a>
+STEPS: If you want to create table structure with dummy database, then follow the Steps given <a target="_blank" href="https://github.com/Sudeep-Bhandari/Tender-Management-System/blob/main/DataBase/how-to-import-sql-dump-file.md">Here Inside DataBase/how-to-import-sql-dump-file</a>
 
 ### ================= Dummy Database Initialization USING QUERY =================
 
